@@ -2,8 +2,7 @@
 
 This is a simple CRUD (Create, Read, Update, Delete) web application using HTML, CSS, JavaScript, and Bootstrap. The application allows users to input, display, update, and delete user data such as email, name, and phone number. The data is stored in the browser's `localStorage`.
 
-![image](https://github.com/user-attachments/assets/0b70100b-fd3d-42da-8b68-8f3cc6300b6c)
-
+![MurphyNods](https://github.com/user-attachments/assets/ccb9d655-1727-418a-9feb-a4c7b33f111b)
 
 ## Features
 

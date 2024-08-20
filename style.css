@@ -1,0 +1,17 @@
+body{
+    background-color: #111;
+    color: #fff;
+}
+
+*{
+    color: #fff;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+}
+#btnUpdate{
+    display: none;
+}
+
+.container h1 {
+    font-size: 10rem;
+}
